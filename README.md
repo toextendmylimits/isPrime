@@ -17,7 +17,7 @@ isPrime(7919); // true
 
 Tests
 =======
-Run SpecRunner.html
+I use jasmine to do unit test. So run SpecRunner.html and you can see all the test cases succeed. You may mdofiy isPrimeSpec.js under spec folder to add more test cases.
 
 How it works
 =======
