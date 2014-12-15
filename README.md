@@ -1,7 +1,7 @@
 isPrime
 =======
 
-Check whether a number is prime number or not
+Check to see whether a number is prime
 
 Usage
 =======
